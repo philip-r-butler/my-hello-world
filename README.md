@@ -6,3 +6,4 @@ Quick test of Github functions
 - make an edit
 - commit changes to new branch
 - created second branch using Desktop editions
+- commited change and made this further change
