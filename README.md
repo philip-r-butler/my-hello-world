@@ -5,3 +5,4 @@ Quick test of Github functions
 - create a new branch
 - make an edit
 - commit changes to new branch
+- created second branch using Desktop editions
